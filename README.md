@@ -28,3 +28,4 @@ Stwórz podstawową aplikację w **Flutter (Dart)** z **natywną funkcją** oraz
 - [ ] Co najmniej 1 operacja **API** (GET/POST).
 - [ ] Stany: ładowanie, błąd, pusty.
 - [ ] `README.md`, zrzuty ekranów, min. 3 commity.
+
